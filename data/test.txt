@@ -1,2 +1,3 @@
 This is a new line at sometime or whatever
 git add<code1>
+I want to add a new line at 8am
